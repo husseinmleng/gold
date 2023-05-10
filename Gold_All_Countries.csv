@@ -1,0 +1,1705 @@
+Unit,Price,Country
+Gram 24K,¥363.87  CNY,China
+Gram 23K,¥348.71  CNY,China
+Gram 22K,¥333.55  CNY,China
+Gram 21K,¥318.39  CNY,China
+Gram 18K,¥272.90  CNY,China
+Gram 16K,¥242.58  CNY,China
+Gram 14K,¥212.26  CNY,China
+Gram 12K,¥181.94  CNY,China
+Gram 10K,¥151.61  CNY,China
+Gram 9K,¥136.45  CNY,China
+Gram 8K,¥121.29  CNY,China
+Gram 6K,¥90.97  CNY,China
+Gram 24K,€48.009  EUR,Europe
+Gram 23K,€46.008  EUR,Europe
+Gram 22K,€44.008  EUR,Europe
+Gram 21K,€42.008  EUR,Europe
+Gram 18K,€36.006  EUR,Europe
+Gram 16K,€32.006  EUR,Europe
+Gram 14K,€28.005  EUR,Europe
+Gram 12K,€24.004  EUR,Europe
+Gram 10K,€20.004  EUR,Europe
+Gram 9K,€18.003  EUR,Europe
+Gram 8K,€16.003  EUR,Europe
+Gram 6K,€12.002  EUR,Europe
+Gram 24K,300.23  BRL,Brazil
+Gram 23K,287.72  BRL,Brazil
+Gram 22K,275.21  BRL,Brazil
+Gram 21K,262.70  BRL,Brazil
+Gram 18K,225.17  BRL,Brazil
+Gram 16K,200.15  BRL,Brazil
+Gram 14K,175.13  BRL,Brazil
+Gram 12K,150.11  BRL,Brazil
+Gram 10K,125.09  BRL,Brazil
+Gram 9K,112.58  BRL,Brazil
+Gram 8K,100.08  BRL,Brazil
+Gram 6K,75.06  BRL,Brazil
+Gram 24K,€48.009  EUR,Belgium
+Gram 23K,€46.008  EUR,Belgium
+Gram 22K,€44.008  EUR,Belgium
+Gram 21K,€42.008  EUR,Belgium
+Gram 18K,€36.006  EUR,Belgium
+Gram 16K,€32.006  EUR,Belgium
+Gram 14K,€28.005  EUR,Belgium
+Gram 12K,€24.004  EUR,Belgium
+Gram 10K,€20.004  EUR,Belgium
+Gram 9K,€18.003  EUR,Belgium
+Gram 8K,€16.003  EUR,Belgium
+Gram 6K,€12.002  EUR,Belgium
+Gram 24K,"¥6,230.6  JPY",Japan
+Gram 23K,"¥5,971.0  JPY",Japan
+Gram 22K,"¥5,711.4  JPY",Japan
+Gram 21K,"¥5,451.8  JPY",Japan
+Gram 18K,"¥4,673.0  JPY",Japan
+Gram 16K,"¥4,153.8  JPY",Japan
+Gram 14K,"¥3,634.5  JPY",Japan
+Gram 12K,"¥3,115.3  JPY",Japan
+Gram 10K,"¥2,596.1  JPY",Japan
+Gram 9K,"¥2,336.5  JPY",Japan
+Gram 8K,"¥2,076.9  JPY",Japan
+Gram 6K,"¥1,557.7  JPY",Japan
+Gram 24K,"4,088.4  RUB",Russia
+Gram 23K,"3,918.1  RUB",Russia
+Gram 22K,"3,747.7  RUB",Russia
+Gram 21K,"3,577.4  RUB",Russia
+Gram 18K,"3,066.3  RUB",Russia
+Gram 16K,"2,725.6  RUB",Russia
+Gram 14K,"2,384.9  RUB",Russia
+Gram 12K,"2,044.2  RUB",Russia
+Gram 10K,"1,703.5  RUB",Russia
+Gram 9K,"1,533.2  RUB",Russia
+Gram 8K,"1,362.8  RUB",Russia
+Gram 6K,"1,022.1  RUB",Russia
+Gram 24K,"₦23,155  NGN",Nigeria
+Gram 23K,"₦22,190  NGN",Nigeria
+Gram 22K,"₦21,225  NGN",Nigeria
+Gram 21K,"₦20,260  NGN",Nigeria
+Gram 18K,"₦17,366  NGN",Nigeria
+Gram 16K,"₦15,436  NGN",Nigeria
+Gram 14K,"₦13,507  NGN",Nigeria
+Gram 12K,"₦11,577  NGN",Nigeria
+Gram 10K,"₦9,648  NGN",Nigeria
+Gram 9K,"₦8,683  NGN",Nigeria
+Gram 8K,"₦7,718  NGN",Nigeria
+Gram 6K,"₦5,789  NGN",Nigeria
+Gram 24K,"1,128.5  MXN",Mexico
+Gram 23K,"1,081.4  MXN",Mexico
+Gram 22K,"1,034.4  MXN",Mexico
+Gram 21K,987.4  MXN,Mexico
+Gram 18K,846.3  MXN,Mexico
+Gram 16K,752.3  MXN,Mexico
+Gram 14K,658.3  MXN,Mexico
+Gram 12K,564.2  MXN,Mexico
+Gram 10K,470.2  MXN,Mexico
+Gram 9K,423.2  MXN,Mexico
+Gram 8K,376.2  MXN,Mexico
+Gram 6K,282.1  MXN,Mexico
+Gram 24K,"803,721  IDR",Indonesia
+Gram 23K,"770,233  IDR",Indonesia
+Gram 22K,"736,744  IDR",Indonesia
+Gram 21K,"703,256  IDR",Indonesia
+Gram 18K,"602,791  IDR",Indonesia
+Gram 16K,"535,814  IDR",Indonesia
+Gram 14K,"468,837  IDR",Indonesia
+Gram 12K,"401,861  IDR",Indonesia
+Gram 10K,"334,884  IDR",Indonesia
+Gram 9K,"301,395  IDR",Indonesia
+Gram 8K,"267,907  IDR",Indonesia
+Gram 6K,"200,930  IDR",Indonesia
+Gram 24K,"1,282,327  VND",Vietnam
+Gram 23K,"1,228,897  VND",Vietnam
+Gram 22K,"1,175,466  VND",Vietnam
+Gram 21K,"1,122,036  VND",Vietnam
+Gram 18K,"961,745  VND",Vietnam
+Gram 16K,"854,885  VND",Vietnam
+Gram 14K,"748,024  VND",Vietnam
+Gram 12K,"641,164  VND",Vietnam
+Gram 10K,"534,303  VND",Vietnam
+Gram 9K,"480,873  VND",Vietnam
+Gram 8K,"427,442  VND",Vietnam
+Gram 6K,"320,582  VND",Vietnam
+Gram 24K,"₩66,409  KRW",South Korea
+Gram 23K,"₩63,642  KRW",South Korea
+Gram 22K,"₩60,875  KRW",South Korea
+Gram 21K,"₩58,108  KRW",South Korea
+Gram 18K,"₩49,807  KRW",South Korea
+Gram 16K,"₩44,273  KRW",South Korea
+Gram 14K,"₩38,739  KRW",South Korea
+Gram 12K,"₩33,205  KRW",South Korea
+Gram 10K,"₩27,671  KRW",South Korea
+Gram 9K,"₩24,904  KRW",South Korea
+Gram 8K,"₩22,136  KRW",South Korea
+Gram 6K,"₩16,602  KRW",South Korea
+Gram 24K,500.31  TRY,Turkey
+Gram 23K,479.46  TRY,Turkey
+Gram 22K,458.61  TRY,Turkey
+Gram 21K,437.77  TRY,Turkey
+Gram 18K,375.23  TRY,Turkey
+Gram 16K,333.54  TRY,Turkey
+Gram 14K,291.84  TRY,Turkey
+Gram 12K,250.15  TRY,Turkey
+Gram 10K,208.46  TRY,Turkey
+Gram 9K,187.61  TRY,Turkey
+Gram 8K,166.77  TRY,Turkey
+Gram 6K,125.08  TRY,Turkey
+Gram 24K,"₱2,852.7  PHP",Philippines
+Gram 23K,"₱2,733.9  PHP",Philippines
+Gram 22K,"₱2,615.0  PHP",Philippines
+Gram 21K,"₱2,496.1  PHP",Philippines
+Gram 18K,"₱2,139.6  PHP",Philippines
+Gram 16K,"₱1,901.8  PHP",Philippines
+Gram 14K,"₱1,664.1  PHP",Philippines
+Gram 12K,"₱1,426.4  PHP",Philippines
+Gram 10K,"₱1,188.6  PHP",Philippines
+Gram 9K,"₱1,069.8  PHP",Philippines
+Gram 8K,₱950.9  PHP,Philippines
+Gram 6K,₱713.2  PHP,Philippines
+Gram 24K,"2,374,254  IRR",Iran
+Gram 23K,"2,275,327  IRR",Iran
+Gram 22K,"2,176,399  IRR",Iran
+Gram 21K,"2,077,472  IRR",Iran
+Gram 18K,"1,780,690  IRR",Iran
+Gram 16K,"1,582,836  IRR",Iran
+Gram 14K,"1,384,981  IRR",Iran
+Gram 12K,"1,187,127  IRR",Iran
+Gram 10K,"989,272  IRR",Iran
+Gram 9K,"890,345  IRR",Iran
+Gram 8K,"791,418  IRR",Iran
+Gram 6K,"593,563  IRR",Iran
+Gram 24K,883.51  EGP,Egypt
+Gram 23K,846.69  EGP,Egypt
+Gram 22K,809.88  EGP,Egypt
+Gram 21K,773.07  EGP,Egypt
+Gram 18K,662.63  EGP,Egypt
+Gram 16K,589.00  EGP,Egypt
+Gram 14K,515.38  EGP,Egypt
+Gram 12K,441.75  EGP,Egypt
+Gram 10K,368.13  EGP,Egypt
+Gram 9K,331.32  EGP,Egypt
+Gram 8K,294.50  EGP,Egypt
+Gram 6K,220.88  EGP,Egypt
+Gram 24K,"5,545.0  ARS",Argentina
+Gram 23K,"5,314.0  ARS",Argentina
+Gram 22K,"5,082.9  ARS",Argentina
+Gram 21K,"4,851.9  ARS",Argentina
+Gram 18K,"4,158.8  ARS",Argentina
+Gram 16K,"3,696.7  ARS",Argentina
+Gram 14K,"3,234.6  ARS",Argentina
+Gram 12K,"2,772.5  ARS",Argentina
+Gram 10K,"2,310.4  ARS",Argentina
+Gram 9K,"2,079.4  ARS",Argentina
+Gram 8K,"1,848.3  ARS",Argentina
+Gram 6K,"1,386.3  ARS",Argentina
+Gram 24K,841.49  ZAR,South Africa
+Gram 23K,806.43  ZAR,South Africa
+Gram 22K,771.37  ZAR,South Africa
+Gram 21K,736.31  ZAR,South Africa
+Gram 18K,631.12  ZAR,South Africa
+Gram 16K,560.99  ZAR,South Africa
+Gram 14K,490.87  ZAR,South Africa
+Gram 12K,420.75  ZAR,South Africa
+Gram 10K,350.62  ZAR,South Africa
+Gram 9K,315.56  ZAR,South Africa
+Gram 8K,280.50  ZAR,South Africa
+Gram 6K,210.37  ZAR,South Africa
+Gram 24K,"215,992  COP",Colombia
+Gram 23K,"206,992  COP",Colombia
+Gram 22K,"197,992  COP",Colombia
+Gram 21K,"188,993  COP",Colombia
+Gram 18K,"161,994  COP",Colombia
+Gram 16K,"143,994  COP",Colombia
+Gram 14K,"125,995  COP",Colombia
+Gram 12K,"107,996  COP",Colombia
+Gram 10K,"89,997  COP",Colombia
+Gram 9K,"80,997  COP",Colombia
+Gram 8K,"71,997  COP",Colombia
+Gram 6K,"53,998  COP",Colombia
+Gram 24K,"฿1,880.5  THB",Thailand
+Gram 23K,"฿1,802.1  THB",Thailand
+Gram 22K,"฿1,723.8  THB",Thailand
+Gram 21K,"฿1,645.4  THB",Thailand
+Gram 18K,"฿1,410.4  THB",Thailand
+Gram 16K,"฿1,253.7  THB",Thailand
+Gram 14K,"฿1,097.0  THB",Thailand
+Gram 12K,฿940.2  THB,Thailand
+Gram 10K,฿783.5  THB,Thailand
+Gram 9K,฿705.2  THB,Thailand
+Gram 8K,฿626.8  THB,Thailand
+Gram 6K,฿470.1  THB,Thailand
+Gram 24K,221.06  PLN,Poland
+Gram 23K,211.85  PLN,Poland
+Gram 22K,202.64  PLN,Poland
+Gram 21K,193.43  PLN,Poland
+Gram 18K,165.80  PLN,Poland
+Gram 16K,147.38  PLN,Poland
+Gram 14K,128.95  PLN,Poland
+Gram 12K,110.53  PLN,Poland
+Gram 10K,92.11  PLN,Poland
+Gram 9K,82.90  PLN,Poland
+Gram 8K,73.69  PLN,Poland
+Gram 6K,55.27  PLN,Poland
+Gram 24K,"1,503.9  UAH",Ukraine
+Gram 23K,"1,441.2  UAH",Ukraine
+Gram 22K,"1,378.6  UAH",Ukraine
+Gram 21K,"1,315.9  UAH",Ukraine
+Gram 18K,"1,127.9  UAH",Ukraine
+Gram 16K,"1,002.6  UAH",Ukraine
+Gram 14K,877.3  UAH,Ukraine
+Gram 12K,752.0  UAH,Ukraine
+Gram 10K,626.6  UAH,Ukraine
+Gram 9K,564.0  UAH,Ukraine
+Gram 8K,501.3  UAH,Ukraine
+Gram 6K,376.0  UAH,Ukraine
+Gram 24K,235.68  MYR,Malaysia
+Gram 23K,225.86  MYR,Malaysia
+Gram 22K,216.04  MYR,Malaysia
+Gram 21K,206.22  MYR,Malaysia
+Gram 18K,176.76  MYR,Malaysia
+Gram 16K,157.12  MYR,Malaysia
+Gram 14K,137.48  MYR,Malaysia
+Gram 12K,117.84  MYR,Malaysia
+Gram 10K,98.20  MYR,Malaysia
+Gram 9K,88.38  MYR,Malaysia
+Gram 8K,78.56  MYR,Malaysia
+Gram 6K,58.92  MYR,Malaysia
+Gram 24K,"6,212.1  KES",Kenya
+Gram 23K,"5,953.2  KES",Kenya
+Gram 22K,"5,694.4  KES",Kenya
+Gram 21K,"5,435.5  KES",Kenya
+Gram 18K,"4,659.0  KES",Kenya
+Gram 16K,"4,141.4  KES",Kenya
+Gram 14K,"3,623.7  KES",Kenya
+Gram 12K,"3,106.0  KES",Kenya
+Gram 10K,"2,588.4  KES",Kenya
+Gram 9K,"2,329.5  KES",Kenya
+Gram 8K,"2,070.7  KES",Kenya
+Gram 6K,"1,553.0  KES",Kenya
+Gram 24K,506.02  MAD,Morocco
+Gram 23K,484.94  MAD,Morocco
+Gram 22K,463.86  MAD,Morocco
+Gram 21K,442.77  MAD,Morocco
+Gram 18K,379.52  MAD,Morocco
+Gram 16K,337.35  MAD,Morocco
+Gram 14K,295.18  MAD,Morocco
+Gram 12K,253.01  MAD,Morocco
+Gram 10K,210.84  MAD,Morocco
+Gram 9K,189.76  MAD,Morocco
+Gram 8K,168.67  MAD,Morocco
+Gram 6K,126.51  MAD,Morocco
+Gram 24K,"13,982,054  VEF",Venezuela
+Gram 23K,"13,399,468  VEF",Venezuela
+Gram 22K,"12,816,883  VEF",Venezuela
+Gram 21K,"12,234,297  VEF",Venezuela
+Gram 18K,"10,486,540  VEF",Venezuela
+Gram 16K,"9,321,369  VEF",Venezuela
+Gram 14K,"8,156,198  VEF",Venezuela
+Gram 12K,"6,991,027  VEF",Venezuela
+Gram 10K,"5,825,856  VEF",Venezuela
+Gram 9K,"5,243,270  VEF",Venezuela
+Gram 8K,"4,660,685  VEF",Venezuela
+Gram 6K,"3,495,513  VEF",Venezuela
+Gram 24K,"1,561.0  TWD",Taiwan
+Gram 23K,"1,495.9  TWD",Taiwan
+Gram 22K,"1,430.9  TWD",Taiwan
+Gram 21K,"1,365.8  TWD",Taiwan
+Gram 18K,"1,170.7  TWD",Taiwan
+Gram 16K,"1,040.6  TWD",Taiwan
+Gram 14K,910.6  TWD,Taiwan
+Gram 12K,780.5  TWD,Taiwan
+Gram 10K,650.4  TWD,Taiwan
+Gram 9K,585.4  TWD,Taiwan
+Gram 8K,520.3  TWD,Taiwan
+Gram 6K,390.2  TWD,Taiwan
+Gram 24K,"7,702.0  DZD",Algeria
+Gram 23K,"7,381.1  DZD",Algeria
+Gram 22K,"7,060.2  DZD",Algeria
+Gram 21K,"6,739.3  DZD",Algeria
+Gram 18K,"5,776.5  DZD",Algeria
+Gram 16K,"5,134.7  DZD",Algeria
+Gram 14K,"4,492.8  DZD",Algeria
+Gram 12K,"3,851.0  DZD",Algeria
+Gram 10K,"3,209.2  DZD",Algeria
+Gram 9K,"2,888.3  DZD",Algeria
+Gram 8K,"2,567.3  DZD",Algeria
+Gram 6K,"1,925.5  DZD",Algeria
+Gram 24K,"23,944  KZT",Kazakhstan
+Gram 23K,"22,947  KZT",Kazakhstan
+Gram 22K,"21,949  KZT",Kazakhstan
+Gram 21K,"20,951  KZT",Kazakhstan
+Gram 18K,"17,958  KZT",Kazakhstan
+Gram 16K,"15,963  KZT",Kazakhstan
+Gram 14K,"13,968  KZT",Kazakhstan
+Gram 12K,"11,972  KZT",Kazakhstan
+Gram 10K,"9,977  KZT",Kazakhstan
+Gram 9K,"8,979  KZT",Kazakhstan
+Gram 8K,"7,981  KZT",Kazakhstan
+Gram 6K,"5,986  KZT",Kazakhstan
+Gram 24K,231.15  PEN,Peru
+Gram 23K,221.52  PEN,Peru
+Gram 22K,211.89  PEN,Peru
+Gram 21K,202.26  PEN,Peru
+Gram 18K,173.36  PEN,Peru
+Gram 16K,154.10  PEN,Peru
+Gram 14K,134.84  PEN,Peru
+Gram 12K,115.58  PEN,Peru
+Gram 10K,96.31  PEN,Peru
+Gram 9K,86.68  PEN,Peru
+Gram 8K,77.05  PEN,Peru
+Gram 6K,57.79  PEN,Peru
+Gram 24K,"600,667  UZS",Uzbekistan
+Gram 23K,"575,640  UZS",Uzbekistan
+Gram 22K,"550,612  UZS",Uzbekistan
+Gram 21K,"525,584  UZS",Uzbekistan
+Gram 18K,"450,501  UZS",Uzbekistan
+Gram 16K,"400,445  UZS",Uzbekistan
+Gram 14K,"350,389  UZS",Uzbekistan
+Gram 12K,"300,334  UZS",Uzbekistan
+Gram 10K,"250,278  UZS",Uzbekistan
+Gram 9K,"225,250  UZS",Uzbekistan
+Gram 8K,"200,222  UZS",Uzbekistan
+Gram 6K,"150,167  UZS",Uzbekistan
+Gram 24K,"104,753  MMK",Myanmar
+Gram 23K,"100,388  MMK",Myanmar
+Gram 22K,"96,023  MMK",Myanmar
+Gram 21K,"91,659  MMK",Myanmar
+Gram 18K,"78,565  MMK",Myanmar
+Gram 16K,"69,835  MMK",Myanmar
+Gram 14K,"61,106  MMK",Myanmar
+Gram 12K,"52,376  MMK",Myanmar
+Gram 10K,"43,647  MMK",Myanmar
+Gram 9K,"39,282  MMK",Myanmar
+Gram 8K,"34,918  MMK",Myanmar
+Gram 6K,"26,188  MMK",Myanmar
+Gram 24K,"44,611  CLP",Chile
+Gram 23K,"42,753  CLP",Chile
+Gram 22K,"40,894  CLP",Chile
+Gram 21K,"39,035  CLP",Chile
+Gram 18K,"33,459  CLP",Chile
+Gram 16K,"29,741  CLP",Chile
+Gram 14K,"26,023  CLP",Chile
+Gram 12K,"22,306  CLP",Chile
+Gram 10K,"18,588  CLP",Chile
+Gram 9K,"16,729  CLP",Chile
+Gram 8K,"14,870  CLP",Chile
+Gram 6K,"11,153  CLP",Chile
+Gram 24K,"2,596.8  ETB",Ethiopia
+Gram 23K,"2,488.6  ETB",Ethiopia
+Gram 22K,"2,380.4  ETB",Ethiopia
+Gram 21K,"2,272.2  ETB",Ethiopia
+Gram 18K,"1,947.6  ETB",Ethiopia
+Gram 16K,"1,731.2  ETB",Ethiopia
+Gram 14K,"1,514.8  ETB",Ethiopia
+Gram 12K,"1,298.4  ETB",Ethiopia
+Gram 10K,"1,082.0  ETB",Ethiopia
+Gram 9K,973.8  ETB,Ethiopia
+Gram 8K,865.6  ETB,Ethiopia
+Gram 6K,649.2  ETB,Ethiopia
+Gram 24K,237.65  RON,Romania
+Gram 23K,227.75  RON,Romania
+Gram 22K,217.85  RON,Romania
+Gram 21K,207.94  RON,Romania
+Gram 18K,178.24  RON,Romania
+Gram 16K,158.43  RON,Romania
+Gram 14K,138.63  RON,Romania
+Gram 12K,118.83  RON,Romania
+Gram 10K,99.02  RON,Romania
+Gram 9K,89.12  RON,Romania
+Gram 8K,79.22  RON,Romania
+Gram 6K,59.41  RON,Romania
+Gram 24K,"24,786  SDG",Sudan
+Gram 23K,"23,754  SDG",Sudan
+Gram 22K,"22,721  SDG",Sudan
+Gram 21K,"21,688  SDG",Sudan
+Gram 18K,"18,590  SDG",Sudan
+Gram 16K,"16,524  SDG",Sudan
+Gram 14K,"14,459  SDG",Sudan
+Gram 12K,"12,393  SDG",Sudan
+Gram 10K,"10,328  SDG",Sudan
+Gram 9K,"9,295  SDG",Sudan
+Gram 8K,"8,262  SDG",Sudan
+Gram 6K,"6,197  SDG",Sudan
+Gram 24K,486.77  SEK,Sweden
+Gram 23K,466.48  SEK,Sweden
+Gram 22K,446.20  SEK,Sweden
+Gram 21K,425.92  SEK,Sweden
+Gram 18K,365.07  SEK,Sweden
+Gram 16K,324.51  SEK,Sweden
+Gram 14K,283.95  SEK,Sweden
+Gram 12K,243.38  SEK,Sweden
+Gram 10K,202.82  SEK,Sweden
+Gram 9K,182.54  SEK,Sweden
+Gram 8K,162.26  SEK,Sweden
+Gram 6K,121.69  SEK,Sweden
+Gram 24K,95.702  AZN,Azerbaijan
+Gram 23K,91.714  AZN,Azerbaijan
+Gram 22K,87.727  AZN,Azerbaijan
+Gram 21K,83.739  AZN,Azerbaijan
+Gram 18K,71.776  AZN,Azerbaijan
+Gram 16K,63.801  AZN,Azerbaijan
+Gram 14K,55.826  AZN,Azerbaijan
+Gram 12K,47.851  AZN,Azerbaijan
+Gram 10K,39.876  AZN,Azerbaijan
+Gram 9K,35.888  AZN,Azerbaijan
+Gram 8K,31.901  AZN,Azerbaijan
+Gram 6K,23.925  AZN,Azerbaijan
+Gram 24K,"198,600  UGX",Uganda
+Gram 23K,"190,325  UGX",Uganda
+Gram 22K,"182,050  UGX",Uganda
+Gram 21K,"173,775  UGX",Uganda
+Gram 18K,"148,950  UGX",Uganda
+Gram 16K,"132,400  UGX",Uganda
+Gram 14K,"115,850  UGX",Uganda
+Gram 12K,"99,300  UGX",Uganda
+Gram 10K,"82,750  UGX",Uganda
+Gram 9K,"74,475  UGX",Uganda
+Gram 8K,"66,200  UGX",Uganda
+Gram 6K,"49,650  UGX",Uganda
+Gram 24K,52.006  CHF,Switzerland
+Gram 23K,49.839  CHF,Switzerland
+Gram 22K,47.672  CHF,Switzerland
+Gram 21K,45.505  CHF,Switzerland
+Gram 18K,39.004  CHF,Switzerland
+Gram 16K,34.671  CHF,Switzerland
+Gram 14K,30.337  CHF,Switzerland
+Gram 12K,26.003  CHF,Switzerland
+Gram 10K,21.669  CHF,Switzerland
+Gram 9K,19.502  CHF,Switzerland
+Gram 8K,17.335  CHF,Switzerland
+Gram 6K,13.001  CHF,Switzerland
+Gram 24K,"17,135  HUF",Hungary
+Gram 23K,"16,421  HUF",Hungary
+Gram 22K,"15,707  HUF",Hungary
+Gram 21K,"14,993  HUF",Hungary
+Gram 18K,"12,851  HUF",Hungary
+Gram 16K,"11,423  HUF",Hungary
+Gram 14K,"9,995  HUF",Hungary
+Gram 12K,"8,567  HUF",Hungary
+Gram 10K,"7,139  HUF",Hungary
+Gram 9K,"6,425  HUF",Hungary
+Gram 8K,"5,712  HUF",Hungary
+Gram 6K,"4,284  HUF",Hungary
+Gram 24K,"14,118  YER",Yemen
+Gram 23K,"13,530  YER",Yemen
+Gram 22K,"12,941  YER",Yemen
+Gram 21K,"12,353  YER",Yemen
+Gram 18K,"10,588  YER",Yemen
+Gram 16K,"9,412  YER",Yemen
+Gram 14K,"8,235  YER",Yemen
+Gram 12K,"7,059  YER",Yemen
+Gram 10K,"5,882  YER",Yemen
+Gram 9K,"5,294  YER",Yemen
+Gram 8K,"4,706  YER",Yemen
+Gram 6K,"3,529  YER",Yemen
+Gram 24K,339.86  GHS,Ghana
+Gram 23K,325.70  GHS,Ghana
+Gram 22K,311.54  GHS,Ghana
+Gram 21K,297.38  GHS,Ghana
+Gram 18K,254.90  GHS,Ghana
+Gram 16K,226.57  GHS,Ghana
+Gram 14K,198.25  GHS,Ghana
+Gram 12K,169.93  GHS,Ghana
+Gram 10K,141.61  GHS,Ghana
+Gram 9K,127.45  GHS,Ghana
+Gram 8K,113.29  GHS,Ghana
+Gram 6K,84.97  GHS,Ghana
+Gram 24K,"82,124  IQD",Iraq
+Gram 23K,"78,702  IQD",Iraq
+Gram 22K,"75,280  IQD",Iraq
+Gram 21K,"71,859  IQD",Iraq
+Gram 18K,"61,593  IQD",Iraq
+Gram 16K,"54,749  IQD",Iraq
+Gram 14K,"47,906  IQD",Iraq
+Gram 12K,"41,062  IQD",Iraq
+Gram 10K,"34,218  IQD",Iraq
+Gram 9K,"30,797  IQD",Iraq
+Gram 8K,"27,375  IQD",Iraq
+Gram 6K,"20,531  IQD",Iraq
+Gram 24K,438.09  HKD,Hong Kong
+Gram 23K,419.84  HKD,Hong Kong
+Gram 22K,401.58  HKD,Hong Kong
+Gram 21K,383.33  HKD,Hong Kong
+Gram 18K,328.57  HKD,Hong Kong
+Gram 16K,292.06  HKD,Hong Kong
+Gram 14K,255.55  HKD,Hong Kong
+Gram 12K,219.05  HKD,Hong Kong
+Gram 10K,182.54  HKD,Hong Kong
+Gram 9K,164.28  HKD,Hong Kong
+Gram 8K,146.03  HKD,Hong Kong
+Gram 6K,109.52  HKD,Hong Kong
+Gram 24K,"1,126,498  BYR",Belarus
+Gram 23K,"1,079,560  BYR",Belarus
+Gram 22K,"1,032,623  BYR",Belarus
+Gram 21K,"985,685  BYR",Belarus
+Gram 18K,"844,873  BYR",Belarus
+Gram 16K,"750,998  BYR",Belarus
+Gram 14K,"657,124  BYR",Belarus
+Gram 12K,"563,249  BYR",Belarus
+Gram 10K,"469,374  BYR",Belarus
+Gram 9K,"422,437  BYR",Belarus
+Gram 8K,"375,499  BYR",Belarus
+Gram 6K,"281,624  BYR",Belarus
+Gram 24K,"5,637.3  RSD",Serbia
+Gram 23K,"5,402.4  RSD",Serbia
+Gram 22K,"5,167.5  RSD",Serbia
+Gram 21K,"4,932.6  RSD",Serbia
+Gram 18K,"4,228.0  RSD",Serbia
+Gram 16K,"3,758.2  RSD",Serbia
+Gram 14K,"3,288.4  RSD",Serbia
+Gram 12K,"2,818.6  RSD",Serbia
+Gram 10K,"2,348.9  RSD",Serbia
+Gram 9K,"2,114.0  RSD",Serbia
+Gram 8K,"1,879.1  RSD",Serbia
+Gram 6K,"1,409.3  RSD",Serbia
+Gram 24K,"70,757  SYP",Syria
+Gram 23K,"67,809  SYP",Syria
+Gram 22K,"64,860  SYP",Syria
+Gram 21K,"61,912  SYP",Syria
+Gram 18K,"53,068  SYP",Syria
+Gram 16K,"47,171  SYP",Syria
+Gram 14K,"41,275  SYP",Syria
+Gram 12K,"35,378  SYP",Syria
+Gram 10K,"29,482  SYP",Syria
+Gram 9K,"26,534  SYP",Syria
+Gram 8K,"23,586  SYP",Syria
+Gram 6K,"17,689  SYP",Syria
+Gram 24K,"3,175.2  DOP",Dominican Republic
+Gram 23K,"3,042.9  DOP",Dominican Republic
+Gram 22K,"2,910.6  DOP",Dominican Republic
+Gram 21K,"2,778.3  DOP",Dominican Republic
+Gram 18K,"2,381.4  DOP",Dominican Republic
+Gram 16K,"2,116.8  DOP",Dominican Republic
+Gram 14K,"1,852.2  DOP",Dominican Republic
+Gram 12K,"1,587.6  DOP",Dominican Republic
+Gram 10K,"1,323.0  DOP",Dominican Republic
+Gram 9K,"1,190.7  DOP",Dominican Republic
+Gram 8K,"1,058.4  DOP",Dominican Republic
+Gram 6K,793.8  DOP,Dominican Republic
+Gram 24K,357.07  DKK,Denmark
+Gram 23K,342.20  DKK,Denmark
+Gram 22K,327.32  DKK,Denmark
+Gram 21K,312.44  DKK,Denmark
+Gram 18K,267.80  DKK,Denmark
+Gram 16K,238.05  DKK,Denmark
+Gram 14K,208.29  DKK,Denmark
+Gram 12K,178.54  DKK,Denmark
+Gram 10K,148.78  DKK,Denmark
+Gram 9K,133.90  DKK,Denmark
+Gram 8K,119.02  DKK,Denmark
+Gram 6K,89.27  DKK,Denmark
+Gram 24K,157.69  TND,Tunisia
+Gram 23K,151.12  TND,Tunisia
+Gram 22K,144.55  TND,Tunisia
+Gram 21K,137.98  TND,Tunisia
+Gram 18K,118.27  TND,Tunisia
+Gram 16K,105.13  TND,Tunisia
+Gram 14K,91.99  TND,Tunisia
+Gram 12K,78.85  TND,Tunisia
+Gram 10K,65.71  TND,Tunisia
+Gram 9K,59.13  TND,Tunisia
+Gram 8K,52.56  TND,Tunisia
+Gram 6K,39.42  TND,Tunisia
+Gram 24K,482.65  NOK,Norway
+Gram 23K,462.54  NOK,Norway
+Gram 22K,442.43  NOK,Norway
+Gram 21K,422.32  NOK,Norway
+Gram 18K,361.99  NOK,Norway
+Gram 16K,321.77  NOK,Norway
+Gram 14K,281.55  NOK,Norway
+Gram 12K,241.32  NOK,Norway
+Gram 10K,201.10  NOK,Norway
+Gram 9K,180.99  NOK,Norway
+Gram 8K,160.88  NOK,Norway
+Gram 6K,120.66  NOK,Norway
+Gram 24K,"6,635.1  NPR",Nepal
+Gram 23K,"6,358.6  NPR",Nepal
+Gram 22K,"6,082.1  NPR",Nepal
+Gram 21K,"5,805.7  NPR",Nepal
+Gram 18K,"4,976.3  NPR",Nepal
+Gram 16K,"4,423.4  NPR",Nepal
+Gram 14K,"3,870.4  NPR",Nepal
+Gram 12K,"3,317.5  NPR",Nepal
+Gram 10K,"2,764.6  NPR",Nepal
+Gram 9K,"2,488.1  NPR",Nepal
+Gram 8K,"2,211.7  NPR",Nepal
+Gram 6K,"1,658.8  NPR",Nepal
+Gram 24K,388.49  BOB,Bolivia
+Gram 23K,372.30  BOB,Bolivia
+Gram 22K,356.12  BOB,Bolivia
+Gram 21K,339.93  BOB,Bolivia
+Gram 18K,291.37  BOB,Bolivia
+Gram 16K,258.99  BOB,Bolivia
+Gram 14K,226.62  BOB,Bolivia
+Gram 12K,194.24  BOB,Bolivia
+Gram 10K,161.87  BOB,Bolivia
+Gram 9K,145.68  BOB,Bolivia
+Gram 8K,129.50  BOB,Bolivia
+Gram 6K,97.12  BOB,Bolivia
+Gram 24K,435.17  GTQ,Guatemala
+Gram 23K,417.04  GTQ,Guatemala
+Gram 22K,398.91  GTQ,Guatemala
+Gram 21K,380.77  GTQ,Guatemala
+Gram 18K,326.38  GTQ,Guatemala
+Gram 16K,290.11  GTQ,Guatemala
+Gram 14K,253.85  GTQ,Guatemala
+Gram 12K,217.59  GTQ,Guatemala
+Gram 10K,181.32  GTQ,Guatemala
+Gram 9K,163.19  GTQ,Guatemala
+Gram 8K,145.06  GTQ,Guatemala
+Gram 6K,108.79  GTQ,Guatemala
+Gram 24K,"85,978  LBP",Lebanon
+Gram 23K,"82,396  LBP",Lebanon
+Gram 22K,"78,814  LBP",Lebanon
+Gram 21K,"75,231  LBP",Lebanon
+Gram 18K,"64,484  LBP",Lebanon
+Gram 16K,"57,319  LBP",Lebanon
+Gram 14K,"50,154  LBP",Lebanon
+Gram 12K,"42,989  LBP",Lebanon
+Gram 10K,"35,824  LBP",Lebanon
+Gram 9K,"32,242  LBP",Lebanon
+Gram 8K,"28,659  LBP",Lebanon
+Gram 6K,"21,495  LBP",Lebanon
+Gram 24K,39.894  JOD,Jordan
+Gram 23K,38.232  JOD,Jordan
+Gram 22K,36.570  JOD,Jordan
+Gram 21K,34.908  JOD,Jordan
+Gram 18K,29.921  JOD,Jordan
+Gram 16K,26.596  JOD,Jordan
+Gram 14K,23.272  JOD,Jordan
+Gram 12K,19.947  JOD,Jordan
+Gram 10K,16.623  JOD,Jordan
+Gram 9K,14.960  JOD,Jordan
+Gram 8K,13.298  JOD,Jordan
+Gram 6K,9.974  JOD,Jordan
+Gram 24K,93.941  BGN,Bulgaria
+Gram 23K,90.026  BGN,Bulgaria
+Gram 22K,86.112  BGN,Bulgaria
+Gram 21K,82.198  BGN,Bulgaria
+Gram 18K,70.456  BGN,Bulgaria
+Gram 16K,62.627  BGN,Bulgaria
+Gram 14K,54.799  BGN,Bulgaria
+Gram 12K,46.970  BGN,Bulgaria
+Gram 10K,39.142  BGN,Bulgaria
+Gram 9K,35.228  BGN,Bulgaria
+Gram 8K,31.314  BGN,Bulgaria
+Gram 6K,23.485  BGN,Bulgaria
+Gram 24K,$80.266  NZD,New Zealand
+Gram 23K,$76.921  NZD,New Zealand
+Gram 22K,$73.577  NZD,New Zealand
+Gram 21K,$70.232  NZD,New Zealand
+Gram 18K,$60.199  NZD,New Zealand
+Gram 16K,$53.510  NZD,New Zealand
+Gram 14K,$46.822  NZD,New Zealand
+Gram 12K,$40.133  NZD,New Zealand
+Gram 10K,$33.444  NZD,New Zealand
+Gram 9K,$30.100  NZD,New Zealand
+Gram 8K,$26.755  NZD,New Zealand
+Gram 6K,$20.066  NZD,New Zealand
+Gram 24K,933.92  ZMW,Zambia
+Gram 23K,895.00  ZMW,Zambia
+Gram 22K,856.09  ZMW,Zambia
+Gram 21K,817.18  ZMW,Zambia
+Gram 18K,700.44  ZMW,Zambia
+Gram 16K,622.61  ZMW,Zambia
+Gram 14K,544.78  ZMW,Zambia
+Gram 12K,466.96  ZMW,Zambia
+Gram 10K,389.13  ZMW,Zambia
+Gram 9K,350.22  ZMW,Zambia
+Gram 8K,311.31  ZMW,Zambia
+Gram 6K,233.48  ZMW,Zambia
+Gram 24K,21.663  OMR,Oman
+Gram 23K,20.760  OMR,Oman
+Gram 22K,19.857  OMR,Oman
+Gram 21K,18.955  OMR,Oman
+Gram 18K,16.247  OMR,Oman
+Gram 16K,14.442  OMR,Oman
+Gram 14K,12.637  OMR,Oman
+Gram 12K,10.831  OMR,Oman
+Gram 10K,9.026  OMR,Oman
+Gram 9K,8.124  OMR,Oman
+Gram 8K,7.221  OMR,Oman
+Gram 6K,5.416  OMR,Oman
+Gram 24K,"31,492  XOF",Senegal
+Gram 23K,"30,179  XOF",Senegal
+Gram 22K,"28,867  XOF",Senegal
+Gram 21K,"27,555  XOF",Senegal
+Gram 18K,"23,619  XOF",Senegal
+Gram 16K,"20,994  XOF",Senegal
+Gram 14K,"18,370  XOF",Senegal
+Gram 12K,"15,746  XOF",Senegal
+Gram 10K,"13,121  XOF",Senegal
+Gram 9K,"11,809  XOF",Senegal
+Gram 8K,"10,497  XOF",Senegal
+Gram 6K,"7,873  XOF",Senegal
+Gram 24K,"33,810  AOA",Angola
+Gram 23K,"32,401  AOA",Angola
+Gram 22K,"30,992  AOA",Angola
+Gram 21K,"29,584  AOA",Angola
+Gram 18K,"25,357  AOA",Angola
+Gram 16K,"22,540  AOA",Angola
+Gram 14K,"19,722  AOA",Angola
+Gram 12K,"16,905  AOA",Angola
+Gram 10K,"14,087  AOA",Angola
+Gram 9K,"12,679  AOA",Angola
+Gram 8K,"11,270  AOA",Angola
+Gram 6K,"8,452  AOA",Angola
+Gram 24K,"229,857  KHR",Cambodia
+Gram 23K,"220,280  KHR",Cambodia
+Gram 22K,"210,702  KHR",Cambodia
+Gram 21K,"201,125  KHR",Cambodia
+Gram 18K,"172,393  KHR",Cambodia
+Gram 16K,"153,238  KHR",Cambodia
+Gram 14K,"134,083  KHR",Cambodia
+Gram 12K,"114,929  KHR",Cambodia
+Gram 10K,"95,774  KHR",Cambodia
+Gram 9K,"86,196  KHR",Cambodia
+Gram 8K,"76,619  KHR",Cambodia
+Gram 6K,"57,464  KHR",Cambodia
+Gram 24K,360.28  HRK,Croatia
+Gram 23K,345.27  HRK,Croatia
+Gram 22K,330.26  HRK,Croatia
+Gram 21K,315.25  HRK,Croatia
+Gram 18K,270.21  HRK,Croatia
+Gram 16K,240.19  HRK,Croatia
+Gram 14K,210.16  HRK,Croatia
+Gram 12K,180.14  HRK,Croatia
+Gram 10K,150.12  HRK,Croatia
+Gram 9K,135.11  HRK,Croatia
+Gram 8K,120.09  HRK,Croatia
+Gram 6K,90.07  HRK,Croatia
+Gram 24K,"387,197  PYG",Paraguay
+Gram 23K,"371,064  PYG",Paraguay
+Gram 22K,"354,931  PYG",Paraguay
+Gram 21K,"338,797  PYG",Paraguay
+Gram 18K,"290,398  PYG",Paraguay
+Gram 16K,"258,131  PYG",Paraguay
+Gram 14K,"225,865  PYG",Paraguay
+Gram 12K,"193,598  PYG",Paraguay
+Gram 10K,"161,332  PYG",Paraguay
+Gram 9K,"145,199  PYG",Paraguay
+Gram 8K,"129,066  PYG",Paraguay
+Gram 6K,"96,799  PYG",Paraguay
+Gram 24K,"112,678  CDF",Congo
+Gram 23K,"107,983  CDF",Congo
+Gram 22K,"103,288  CDF",Congo
+Gram 21K,"98,593  CDF",Congo
+Gram 18K,"84,508  CDF",Congo
+Gram 16K,"75,119  CDF",Congo
+Gram 14K,"65,729  CDF",Congo
+Gram 12K,"56,339  CDF",Congo
+Gram 10K,"46,949  CDF",Congo
+Gram 9K,"42,254  CDF",Congo
+Gram 8K,"37,559  CDF",Congo
+Gram 6K,"28,169  CDF",Congo
+Gram 24K,"35,153  CRC",Costa Rica
+Gram 23K,"33,688  CRC",Costa Rica
+Gram 22K,"32,224  CRC",Costa Rica
+Gram 21K,"30,759  CRC",Costa Rica
+Gram 18K,"26,365  CRC",Costa Rica
+Gram 16K,"23,435  CRC",Costa Rica
+Gram 14K,"20,506  CRC",Costa Rica
+Gram 12K,"17,577  CRC",Costa Rica
+Gram 10K,"14,647  CRC",Costa Rica
+Gram 9K,"13,182  CRC",Costa Rica
+Gram 8K,"11,718  CRC",Costa Rica
+Gram 6K,"8,788  CRC",Costa Rica
+Gram 24K,"130,487  TZS",Tanzania
+Gram 23K,"125,050  TZS",Tanzania
+Gram 22K,"119,613  TZS",Tanzania
+Gram 21K,"114,176  TZS",Tanzania
+Gram 18K,"97,865  TZS",Tanzania
+Gram 16K,"86,991  TZS",Tanzania
+Gram 14K,"76,117  TZS",Tanzania
+Gram 12K,"65,243  TZS",Tanzania
+Gram 10K,"54,370  TZS",Tanzania
+Gram 9K,"48,933  TZS",Tanzania
+Gram 8K,"43,496  TZS",Tanzania
+Gram 6K,"32,622  TZS",Tanzania
+Gram 24K,"4,948.8  AFN",Afghanistan
+Gram 23K,"4,742.6  AFN",Afghanistan
+Gram 22K,"4,536.4  AFN",Afghanistan
+Gram 21K,"4,330.2  AFN",Afghanistan
+Gram 18K,"3,711.6  AFN",Afghanistan
+Gram 16K,"3,299.2  AFN",Afghanistan
+Gram 14K,"2,886.8  AFN",Afghanistan
+Gram 12K,"2,474.4  AFN",Afghanistan
+Gram 10K,"2,062.0  AFN",Afghanistan
+Gram 9K,"1,855.8  AFN",Afghanistan
+Gram 8K,"1,649.6  AFN",Afghanistan
+Gram 6K,"1,237.2  AFN",Afghanistan
+Gram 24K,"3,592.8  MZN",Mozambique
+Gram 23K,"3,443.1  MZN",Mozambique
+Gram 22K,"3,293.4  MZN",Mozambique
+Gram 21K,"3,143.7  MZN",Mozambique
+Gram 18K,"2,694.6  MZN",Mozambique
+Gram 16K,"2,395.2  MZN",Mozambique
+Gram 14K,"2,095.8  MZN",Mozambique
+Gram 12K,"1,796.4  MZN",Mozambique
+Gram 10K,"1,497.0  MZN",Mozambique
+Gram 9K,"1,347.3  MZN",Mozambique
+Gram 8K,"1,197.6  MZN",Mozambique
+Gram 6K,898.2  MZN,Mozambique
+Gram 24K,93.771  BAM,Bosnia
+Gram 23K,89.864  BAM,Bosnia
+Gram 22K,85.957  BAM,Bosnia
+Gram 21K,82.050  BAM,Bosnia
+Gram 18K,70.328  BAM,Bosnia
+Gram 16K,62.514  BAM,Bosnia
+Gram 14K,54.700  BAM,Bosnia
+Gram 12K,46.885  BAM,Bosnia
+Gram 10K,39.071  BAM,Bosnia
+Gram 9K,35.164  BAM,Bosnia
+Gram 8K,31.257  BAM,Bosnia
+Gram 6K,23.443  BAM,Bosnia
+Gram 24K,"2,398.3  UYU",Uruguay
+Gram 23K,"2,298.4  UYU",Uruguay
+Gram 22K,"2,198.5  UYU",Uruguay
+Gram 21K,"2,098.5  UYU",Uruguay
+Gram 18K,"1,798.7  UYU",Uruguay
+Gram 16K,"1,598.9  UYU",Uruguay
+Gram 14K,"1,399.0  UYU",Uruguay
+Gram 12K,"1,199.2  UYU",Uruguay
+Gram 10K,999.3  UYU,Uruguay
+Gram 9K,899.4  UYU,Uruguay
+Gram 8K,799.4  UYU,Uruguay
+Gram 6K,599.6  UYU,Uruguay
+Gram 24K,"55,987  RWF",Rwanda
+Gram 23K,"53,654  RWF",Rwanda
+Gram 22K,"51,322  RWF",Rwanda
+Gram 21K,"48,989  RWF",Rwanda
+Gram 18K,"41,990  RWF",Rwanda
+Gram 16K,"37,325  RWF",Rwanda
+Gram 14K,"32,659  RWF",Rwanda
+Gram 12K,"27,994  RWF",Rwanda
+Gram 10K,"23,328  RWF",Rwanda
+Gram 9K,"20,995  RWF",Rwanda
+Gram 8K,"18,662  RWF",Rwanda
+Gram 6K,"13,997  RWF",Rwanda
+Gram 24K,171.55  LTL,Lithuania
+Gram 23K,164.40  LTL,Lithuania
+Gram 22K,157.25  LTL,Lithuania
+Gram 21K,150.10  LTL,Lithuania
+Gram 18K,128.66  LTL,Lithuania
+Gram 16K,114.36  LTL,Lithuania
+Gram 14K,100.07  LTL,Lithuania
+Gram 12K,85.77  LTL,Lithuania
+Gram 10K,71.48  LTL,Lithuania
+Gram 9K,64.33  LTL,Lithuania
+Gram 8K,57.18  LTL,Lithuania
+Gram 6K,42.89  LTL,Lithuania
+Gram 24K,993.10  MDL,Moldova
+Gram 23K,951.72  MDL,Moldova
+Gram 22K,910.34  MDL,Moldova
+Gram 21K,868.96  MDL,Moldova
+Gram 18K,744.82  MDL,Moldova
+Gram 16K,662.06  MDL,Moldova
+Gram 14K,579.31  MDL,Moldova
+Gram 12K,496.55  MDL,Moldova
+Gram 10K,413.79  MDL,Moldova
+Gram 9K,372.41  MDL,Moldova
+Gram 8K,331.03  MDL,Moldova
+Gram 6K,248.27  MDL,Moldova
+Gram 24K,56.269  PAB,Panama
+Gram 23K,53.924  PAB,Panama
+Gram 22K,51.580  PAB,Panama
+Gram 21K,49.235  PAB,Panama
+Gram 18K,42.201  PAB,Panama
+Gram 16K,37.512  PAB,Panama
+Gram 14K,32.823  PAB,Panama
+Gram 12K,28.134  PAB,Panama
+Gram 10K,23.445  PAB,Panama
+Gram 9K,21.101  PAB,Panama
+Gram 8K,18.756  PAB,Panama
+Gram 6K,14.067  PAB,Panama
+Gram 24K,175.00  GEL,Georgia
+Gram 23K,167.70  GEL,Georgia
+Gram 22K,160.41  GEL,Georgia
+Gram 21K,153.12  GEL,Georgia
+Gram 18K,131.25  GEL,Georgia
+Gram 16K,116.66  GEL,Georgia
+Gram 14K,102.08  GEL,Georgia
+Gram 12K,87.50  GEL,Georgia
+Gram 10K,72.91  GEL,Georgia
+Gram 9K,65.62  GEL,Georgia
+Gram 8K,58.33  GEL,Georgia
+Gram 6K,43.75  GEL,Georgia
+Gram 24K,"27,688  AMD",Armenia
+Gram 23K,"26,535  AMD",Armenia
+Gram 22K,"25,381  AMD",Armenia
+Gram 21K,"24,227  AMD",Armenia
+Gram 18K,"20,766  AMD",Armenia
+Gram 16K,"18,459  AMD",Armenia
+Gram 14K,"16,152  AMD",Armenia
+Gram 12K,"13,844  AMD",Armenia
+Gram 10K,"11,537  AMD",Armenia
+Gram 9K,"10,383  AMD",Armenia
+Gram 8K,"9,229  AMD",Armenia
+Gram 6K,"6,922  AMD",Armenia
+Gram 24K,"5,832.2  ALL",Albania
+Gram 23K,"5,589.2  ALL",Albania
+Gram 22K,"5,346.2  ALL",Albania
+Gram 21K,"5,103.2  ALL",Albania
+Gram 18K,"4,374.2  ALL",Albania
+Gram 16K,"3,888.2  ALL",Albania
+Gram 14K,"3,402.1  ALL",Albania
+Gram 12K,"2,916.1  ALL",Albania
+Gram 10K,"2,430.1  ALL",Albania
+Gram 9K,"2,187.1  ALL",Albania
+Gram 8K,"1,944.1  ALL",Albania
+Gram 6K,"1,458.1  ALL",Albania
+Gram 24K,"1,361.7  HNL",Honduras
+Gram 23K,"1,305.0  HNL",Honduras
+Gram 22K,"1,248.2  HNL",Honduras
+Gram 21K,"1,191.5  HNL",Honduras
+Gram 18K,"1,021.3  HNL",Honduras
+Gram 16K,907.8  HNL,Honduras
+Gram 14K,794.3  HNL,Honduras
+Gram 12K,680.9  HNL,Honduras
+Gram 10K,567.4  HNL,Honduras
+Gram 9K,510.6  HNL,Honduras
+Gram 8K,453.9  HNL,Honduras
+Gram 6K,340.4  HNL,Honduras
+Gram 24K,637.71  TJS,Tajikistan
+Gram 23K,611.14  TJS,Tajikistan
+Gram 22K,584.56  TJS,Tajikistan
+Gram 21K,557.99  TJS,Tajikistan
+Gram 18K,478.28  TJS,Tajikistan
+Gram 16K,425.14  TJS,Tajikistan
+Gram 14K,372.00  TJS,Tajikistan
+Gram 12K,318.85  TJS,Tajikistan
+Gram 10K,265.71  TJS,Tajikistan
+Gram 9K,239.14  TJS,Tajikistan
+Gram 8K,212.57  TJS,Tajikistan
+Gram 6K,159.43  TJS,Tajikistan
+Gram 24K,"45,859  MWK",Malawi
+Gram 23K,"43,948  MWK",Malawi
+Gram 22K,"42,037  MWK",Malawi
+Gram 21K,"40,127  MWK",Malawi
+Gram 18K,"34,394  MWK",Malawi
+Gram 16K,"30,573  MWK",Malawi
+Gram 14K,"26,751  MWK",Malawi
+Gram 12K,"22,929  MWK",Malawi
+Gram 10K,"19,108  MWK",Malawi
+Gram 9K,"17,197  MWK",Malawi
+Gram 8K,"15,286  MWK",Malawi
+Gram 6K,"11,465  MWK",Malawi
+Gram 24K,"2,951.2  MKD",Macedonia
+Gram 23K,"2,828.2  MKD",Macedonia
+Gram 22K,"2,705.3  MKD",Macedonia
+Gram 21K,"2,582.3  MKD",Macedonia
+Gram 18K,"2,213.4  MKD",Macedonia
+Gram 16K,"1,967.5  MKD",Macedonia
+Gram 14K,"1,721.5  MKD",Macedonia
+Gram 12K,"1,475.6  MKD",Macedonia
+Gram 10K,"1,229.7  MKD",Macedonia
+Gram 9K,"1,106.7  MKD",Macedonia
+Gram 8K,983.7  MKD,Macedonia
+Gram 6K,737.8  MKD,Macedonia
+Gram 24K,"5,626.0  HTG",Haiti
+Gram 23K,"5,391.6  HTG",Haiti
+Gram 22K,"5,157.2  HTG",Haiti
+Gram 21K,"4,922.8  HTG",Haiti
+Gram 18K,"4,219.5  HTG",Haiti
+Gram 16K,"3,750.7  HTG",Haiti
+Gram 14K,"3,281.8  HTG",Haiti
+Gram 12K,"2,813.0  HTG",Haiti
+Gram 10K,"2,344.2  HTG",Haiti
+Gram 9K,"2,109.8  HTG",Haiti
+Gram 8K,"1,875.3  HTG",Haiti
+Gram 6K,"1,406.5  HTG",Haiti
+Gram 24K,21.211  BHD,Bahrain
+Gram 23K,20.327  BHD,Bahrain
+Gram 22K,19.443  BHD,Bahrain
+Gram 21K,18.560  BHD,Bahrain
+Gram 18K,15.908  BHD,Bahrain
+Gram 16K,14.141  BHD,Bahrain
+Gram 14K,12.373  BHD,Bahrain
+Gram 12K,10.605  BHD,Bahrain
+Gram 10K,8.838  BHD,Bahrain
+Gram 9K,7.954  BHD,Bahrain
+Gram 8K,7.070  BHD,Bahrain
+Gram 6K,5.303  BHD,Bahrain
+Gram 24K,"553,683  LAK",Laos
+Gram 23K,"530,613  LAK",Laos
+Gram 22K,"507,543  LAK",Laos
+Gram 21K,"484,473  LAK",Laos
+Gram 18K,"415,262  LAK",Laos
+Gram 16K,"369,122  LAK",Laos
+Gram 14K,"322,982  LAK",Laos
+Gram 12K,"276,842  LAK",Laos
+Gram 10K,"230,701  LAK",Laos
+Gram 9K,"207,631  LAK",Laos
+Gram 8K,"184,561  LAK",Laos
+Gram 6K,"138,421  LAK",Laos
+Gram 24K,"8,333.9  JMD",Jamaica
+Gram 23K,"7,986.6  JMD",Jamaica
+Gram 22K,"7,639.4  JMD",Jamaica
+Gram 21K,"7,292.2  JMD",Jamaica
+Gram 18K,"6,250.4  JMD",Jamaica
+Gram 16K,"5,555.9  JMD",Jamaica
+Gram 14K,"4,861.4  JMD",Jamaica
+Gram 12K,"4,166.9  JMD",Jamaica
+Gram 10K,"3,472.5  JMD",Jamaica
+Gram 9K,"3,125.2  JMD",Jamaica
+Gram 8K,"2,778.0  JMD",Jamaica
+Gram 6K,"2,083.5  JMD",Jamaica
+Gram 24K,"1,983.5  NIO",Nicaragua
+Gram 23K,"1,900.8  NIO",Nicaragua
+Gram 22K,"1,818.2  NIO",Nicaragua
+Gram 21K,"1,735.5  NIO",Nicaragua
+Gram 18K,"1,487.6  NIO",Nicaragua
+Gram 16K,"1,322.3  NIO",Nicaragua
+Gram 14K,"1,157.0  NIO",Nicaragua
+Gram 12K,991.7  NIO,Nicaragua
+Gram 10K,826.4  NIO,Nicaragua
+Gram 9K,743.8  NIO,Nicaragua
+Gram 8K,661.2  NIO,Nicaragua
+Gram 6K,495.9  NIO,Nicaragua
+Gram 24K,255.18  LYD,Libya
+Gram 23K,244.55  LYD,Libya
+Gram 22K,233.91  LYD,Libya
+Gram 21K,223.28  LYD,Libya
+Gram 18K,191.38  LYD,Libya
+Gram 16K,170.12  LYD,Libya
+Gram 14K,148.85  LYD,Libya
+Gram 12K,127.59  LYD,Libya
+Gram 10K,106.32  LYD,Libya
+Gram 9K,95.69  LYD,Libya
+Gram 8K,85.06  LYD,Libya
+Gram 6K,63.79  LYD,Libya
+Gram 24K,"221,136  MGA",Madagascar
+Gram 23K,"211,922  MGA",Madagascar
+Gram 22K,"202,708  MGA",Madagascar
+Gram 21K,"193,494  MGA",Madagascar
+Gram 18K,"165,852  MGA",Madagascar
+Gram 16K,"147,424  MGA",Madagascar
+Gram 14K,"128,996  MGA",Madagascar
+Gram 12K,"110,568  MGA",Madagascar
+Gram 10K,"92,140  MGA",Madagascar
+Gram 9K,"82,926  MGA",Madagascar
+Gram 8K,"73,712  MGA",Madagascar
+Gram 6K,"55,284  MGA",Madagascar
+Gram 24K,196.94  TMT,Turkmenistan
+Gram 23K,188.73  TMT,Turkmenistan
+Gram 22K,180.53  TMT,Turkmenistan
+Gram 21K,172.32  TMT,Turkmenistan
+Gram 18K,147.71  TMT,Turkmenistan
+Gram 16K,131.29  TMT,Turkmenistan
+Gram 14K,114.88  TMT,Turkmenistan
+Gram 12K,98.47  TMT,Turkmenistan
+Gram 10K,82.06  TMT,Turkmenistan
+Gram 9K,73.85  TMT,Turkmenistan
+Gram 8K,65.65  TMT,Turkmenistan
+Gram 6K,49.24  TMT,Turkmenistan
+Gram 24K,"2,405.5  MUR",Mauritius
+Gram 23K,"2,305.2  MUR",Mauritius
+Gram 22K,"2,205.0  MUR",Mauritius
+Gram 21K,"2,104.8  MUR",Mauritius
+Gram 18K,"1,804.1  MUR",Mauritius
+Gram 16K,"1,603.6  MUR",Mauritius
+Gram 14K,"1,403.2  MUR",Mauritius
+Gram 12K,"1,202.7  MUR",Mauritius
+Gram 10K,"1,002.3  MUR",Mauritius
+Gram 9K,902.0  MUR,Mauritius
+Gram 8K,801.8  MUR,Mauritius
+Gram 6K,601.4  MUR,Mauritius
+Gram 24K,"159,781  MNT",Mongolia
+Gram 23K,"153,124  MNT",Mongolia
+Gram 22K,"146,466  MNT",Mongolia
+Gram 21K,"139,809  MNT",Mongolia
+Gram 18K,"119,836  MNT",Mongolia
+Gram 16K,"106,521  MNT",Mongolia
+Gram 14K,"93,206  MNT",Mongolia
+Gram 12K,"79,891  MNT",Mongolia
+Gram 10K,"66,576  MNT",Mongolia
+Gram 9K,"59,918  MNT",Mongolia
+Gram 8K,"53,260  MNT",Mongolia
+Gram 6K,"39,945  MNT",Mongolia
+Gram 24K,625.70  BWP,Botswana
+Gram 23K,599.63  BWP,Botswana
+Gram 22K,573.56  BWP,Botswana
+Gram 21K,547.49  BWP,Botswana
+Gram 18K,469.28  BWP,Botswana
+Gram 16K,417.13  BWP,Botswana
+Gram 14K,364.99  BWP,Botswana
+Gram 12K,312.85  BWP,Botswana
+Gram 10K,260.71  BWP,Botswana
+Gram 9K,234.64  BWP,Botswana
+Gram 8K,208.57  BWP,Botswana
+Gram 6K,156.43  BWP,Botswana
+Gram 24K,"20,088  MRO",Mauritania
+Gram 23K,"19,251  MRO",Mauritania
+Gram 22K,"18,414  MRO",Mauritania
+Gram 21K,"17,577  MRO",Mauritania
+Gram 18K,"15,066  MRO",Mauritania
+Gram 16K,"13,392  MRO",Mauritania
+Gram 14K,"11,718  MRO",Mauritania
+Gram 12K,"10,044  MRO",Mauritania
+Gram 10K,"8,370  MRO",Mauritania
+Gram 9K,"7,533  MRO",Mauritania
+Gram 8K,"6,696  MRO",Mauritania
+Gram 6K,"5,022  MRO",Mauritania
+Gram 24K,827.71  NAD,Namibia
+Gram 23K,793.22  NAD,Namibia
+Gram 22K,758.74  NAD,Namibia
+Gram 21K,724.25  NAD,Namibia
+Gram 18K,620.78  NAD,Namibia
+Gram 16K,551.81  NAD,Namibia
+Gram 14K,482.83  NAD,Namibia
+Gram 12K,413.86  NAD,Namibia
+Gram 10K,344.88  NAD,Namibia
+Gram 9K,310.39  NAD,Namibia
+Gram 8K,275.90  NAD,Namibia
+Gram 6K,206.93  NAD,Namibia
+Gram 24K,"112,256  BIF",Burundi
+Gram 23K,"107,579  BIF",Burundi
+Gram 22K,"102,901  BIF",Burundi
+Gram 21K,"98,224  BIF",Burundi
+Gram 18K,"84,192  BIF",Burundi
+Gram 16K,"74,837  BIF",Burundi
+Gram 14K,"65,483  BIF",Burundi
+Gram 12K,"56,128  BIF",Burundi
+Gram 10K,"46,773  BIF",Burundi
+Gram 9K,"42,096  BIF",Burundi
+Gram 8K,"37,419  BIF",Burundi
+Gram 6K,"28,064  BIF",Burundi
+Gram 24K,451.18  MOP,Macau
+Gram 23K,432.39  MOP,Macau
+Gram 22K,413.59  MOP,Macau
+Gram 21K,394.79  MOP,Macau
+Gram 18K,338.39  MOP,Macau
+Gram 16K,300.79  MOP,Macau
+Gram 14K,263.19  MOP,Macau
+Gram 12K,225.59  MOP,Macau
+Gram 10K,187.99  MOP,Macau
+Gram 9K,169.19  MOP,Macau
+Gram 8K,150.39  MOP,Macau
+Gram 6K,112.80  MOP,Macau
+Gram 24K,117.74  FJD,Fiji
+Gram 23K,112.84  FJD,Fiji
+Gram 22K,107.93  FJD,Fiji
+Gram 21K,103.02  FJD,Fiji
+Gram 18K,88.31  FJD,Fiji
+Gram 16K,78.49  FJD,Fiji
+Gram 14K,68.68  FJD,Fiji
+Gram 12K,58.87  FJD,Fiji
+Gram 10K,49.06  FJD,Fiji
+Gram 9K,44.15  FJD,Fiji
+Gram 8K,39.25  FJD,Fiji
+Gram 6K,29.44  FJD,Fiji
+Gram 24K,827.71  SZL,Swaziland
+Gram 23K,793.22  SZL,Swaziland
+Gram 22K,758.74  SZL,Swaziland
+Gram 21K,724.25  SZL,Swaziland
+Gram 18K,620.78  SZL,Swaziland
+Gram 16K,551.81  SZL,Swaziland
+Gram 14K,482.83  SZL,Swaziland
+Gram 12K,413.86  SZL,Swaziland
+Gram 10K,344.88  SZL,Swaziland
+Gram 9K,310.39  SZL,Swaziland
+Gram 8K,275.90  SZL,Swaziland
+Gram 6K,206.93  SZL,Swaziland
+Gram 24K,827.71  LSL,Lesotho
+Gram 23K,793.22  LSL,Lesotho
+Gram 22K,758.74  LSL,Lesotho
+Gram 21K,724.25  LSL,Lesotho
+Gram 18K,620.78  LSL,Lesotho
+Gram 16K,551.81  LSL,Lesotho
+Gram 14K,482.83  LSL,Lesotho
+Gram 12K,413.86  LSL,Lesotho
+Gram 10K,344.88  LSL,Lesotho
+Gram 9K,310.39  LSL,Lesotho
+Gram 8K,275.90  LSL,Lesotho
+Gram 6K,206.93  LSL,Lesotho
+Gram 24K,"7,225.5  ISK",Iceland
+Gram 23K,"6,924.4  ISK",Iceland
+Gram 22K,"6,623.3  ISK",Iceland
+Gram 21K,"6,322.3  ISK",Iceland
+Gram 18K,"5,419.1  ISK",Iceland
+Gram 16K,"4,817.0  ISK",Iceland
+Gram 14K,"4,214.8  ISK",Iceland
+Gram 12K,"3,612.7  ISK",Iceland
+Gram 10K,"3,010.6  ISK",Iceland
+Gram 9K,"2,709.5  ISK",Iceland
+Gram 8K,"2,408.5  ISK",Iceland
+Gram 6K,"1,806.4  ISK",Iceland
+Gram 24K,"4,146.9  BTN",Bhutan
+Gram 23K,"3,974.1  BTN",Bhutan
+Gram 22K,"3,801.3  BTN",Bhutan
+Gram 21K,"3,628.5  BTN",Bhutan
+Gram 18K,"3,110.2  BTN",Bhutan
+Gram 16K,"2,764.6  BTN",Bhutan
+Gram 14K,"2,419.0  BTN",Bhutan
+Gram 12K,"2,073.5  BTN",Bhutan
+Gram 10K,"1,727.9  BTN",Bhutan
+Gram 9K,"1,555.1  BTN",Bhutan
+Gram 8K,"1,382.3  BTN",Bhutan
+Gram 6K,"1,036.7  BTN",Bhutan
+Gram 24K,"11,760  GYD",Guyana
+Gram 23K,"11,270  GYD",Guyana
+Gram 22K,"10,780  GYD",Guyana
+Gram 21K,"10,290  GYD",Guyana
+Gram 18K,"8,820  GYD",Guyana
+Gram 16K,"7,840  GYD",Guyana
+Gram 14K,"6,860  GYD",Guyana
+Gram 12K,"5,880  GYD",Guyana
+Gram 10K,"4,900  GYD",Guyana
+Gram 9K,"4,410  GYD",Guyana
+Gram 8K,"3,920  GYD",Guyana
+Gram 6K,"2,940  GYD",Guyana
+Gram 24K,"9,630.4  LRD",Liberia
+Gram 23K,"9,229.1  LRD",Liberia
+Gram 22K,"8,827.8  LRD",Liberia
+Gram 21K,"8,426.6  LRD",Liberia
+Gram 18K,"7,222.8  LRD",Liberia
+Gram 16K,"6,420.2  LRD",Liberia
+Gram 14K,"5,617.7  LRD",Liberia
+Gram 12K,"4,815.2  LRD",Liberia
+Gram 10K,"4,012.7  LRD",Liberia
+Gram 9K,"3,611.4  LRD",Liberia
+Gram 8K,"3,210.1  LRD",Liberia
+Gram 6K,"2,407.6  LRD",Liberia
+Gram 24K,"1,205.3  SRD",Suriname
+Gram 23K,"1,155.1  SRD",Suriname
+Gram 22K,"1,104.9  SRD",Suriname
+Gram 21K,"1,054.6  SRD",Suriname
+Gram 18K,904.0  SRD,Suriname
+Gram 16K,803.5  SRD,Suriname
+Gram 14K,703.1  SRD,Suriname
+Gram 12K,602.7  SRD,Suriname
+Gram 10K,502.2  SRD,Suriname
+Gram 9K,452.0  SRD,Suriname
+Gram 8K,401.8  SRD,Suriname
+Gram 6K,301.3  SRD,Suriname
+Gram 24K,112.54  BBD,Barbados
+Gram 23K,107.85  BBD,Barbados
+Gram 22K,103.16  BBD,Barbados
+Gram 21K,98.47  BBD,Barbados
+Gram 18K,84.40  BBD,Barbados
+Gram 16K,75.02  BBD,Barbados
+Gram 14K,65.65  BBD,Barbados
+Gram 12K,56.27  BBD,Barbados
+Gram 10K,46.89  BBD,Barbados
+Gram 9K,42.20  BBD,Barbados
+Gram 8K,37.51  BBD,Barbados
+Gram 6K,28.13  BBD,Barbados
+Gram 24K,869.35  MVR,Maldives
+Gram 23K,833.13  MVR,Maldives
+Gram 22K,796.90  MVR,Maldives
+Gram 21K,760.68  MVR,Maldives
+Gram 18K,652.01  MVR,Maldives
+Gram 16K,579.57  MVR,Maldives
+Gram 14K,507.12  MVR,Maldives
+Gram 12K,434.68  MVR,Maldives
+Gram 10K,362.23  MVR,Maldives
+Gram 9K,326.01  MVR,Maldives
+Gram 8K,289.78  MVR,Maldives
+Gram 6K,217.34  MVR,Maldives
+Gram 24K,"32,917  SOS",Somalia
+Gram 23K,"31,546  SOS",Somalia
+Gram 22K,"30,174  SOS",Somalia
+Gram 21K,"28,802  SOS",Somalia
+Gram 18K,"24,688  SOS",Somalia
+Gram 16K,"21,945  SOS",Somalia
+Gram 14K,"19,202  SOS",Somalia
+Gram 12K,"16,459  SOS",Somalia
+Gram 10K,"13,715  SOS",Somalia
+Gram 9K,"12,344  SOS",Somalia
+Gram 8K,"10,972  SOS",Somalia
+Gram 6K,"8,229  SOS",Somalia
+Gram 24K,113.40  BZD,Belize
+Gram 23K,108.68  BZD,Belize
+Gram 22K,103.95  BZD,Belize
+Gram 21K,99.23  BZD,Belize
+Gram 18K,85.05  BZD,Belize
+Gram 16K,75.60  BZD,Belize
+Gram 14K,66.15  BZD,Belize
+Gram 12K,56.70  BZD,Belize
+Gram 10K,47.25  BZD,Belize
+Gram 9K,42.53  BZD,Belize
+Gram 8K,37.80  BZD,Belize
+Gram 6K,28.35  BZD,Belize
+Gram 24K,"10,016  DJF",Djibouti
+Gram 23K,"9,598  DJF",Djibouti
+Gram 22K,"9,181  DJF",Djibouti
+Gram 21K,"8,764  DJF",Djibouti
+Gram 18K,"7,512  DJF",Djibouti
+Gram 16K,"6,677  DJF",Djibouti
+Gram 14K,"5,843  DJF",Djibouti
+Gram 12K,"5,008  DJF",Djibouti
+Gram 10K,"4,173  DJF",Djibouti
+Gram 9K,"3,756  DJF",Djibouti
+Gram 8K,"3,339  DJF",Djibouti
+Gram 6K,"2,504  DJF",Djibouti
+Gram 24K,101.31  AWG,Aruba
+Gram 23K,97.09  AWG,Aruba
+Gram 22K,92.87  AWG,Aruba
+Gram 21K,88.65  AWG,Aruba
+Gram 18K,75.98  AWG,Aruba
+Gram 16K,67.54  AWG,Aruba
+Gram 14K,59.10  AWG,Aruba
+Gram 12K,50.66  AWG,Aruba
+Gram 10K,42.21  AWG,Aruba
+Gram 9K,37.99  AWG,Aruba
+Gram 8K,33.77  AWG,Aruba
+Gram 6K,25.33  AWG,Aruba
+Gram 24K,56.269  BMD,Bermuda
+Gram 23K,53.924  BMD,Bermuda
+Gram 22K,51.580  BMD,Bermuda
+Gram 21K,49.235  BMD,Bermuda
+Gram 18K,42.201  BMD,Bermuda
+Gram 16K,37.512  BMD,Bermuda
+Gram 14K,32.823  BMD,Bermuda
+Gram 12K,28.134  BMD,Bermuda
+Gram 10K,23.445  BMD,Bermuda
+Gram 9K,21.101  BMD,Bermuda
+Gram 8K,18.756  BMD,Bermuda
+Gram 6K,14.067  BMD,Bermuda
+Gram 24K,"6,281.4  VUV",Vanuatu
+Gram 23K,"6,019.6  VUV",Vanuatu
+Gram 22K,"5,757.9  VUV",Vanuatu
+Gram 21K,"5,496.2  VUV",Vanuatu
+Gram 18K,"4,711.0  VUV",Vanuatu
+Gram 16K,"4,187.6  VUV",Vanuatu
+Gram 14K,"3,664.1  VUV",Vanuatu
+Gram 12K,"3,140.7  VUV",Vanuatu
+Gram 10K,"2,617.2  VUV",Vanuatu
+Gram 9K,"2,355.5  VUV",Vanuatu
+Gram 8K,"2,093.8  VUV",Vanuatu
+Gram 6K,"1,570.3  VUV",Vanuatu
+Gram 24K,"23,591  KMF",Comoros
+Gram 23K,"22,608  KMF",Comoros
+Gram 22K,"21,625  KMF",Comoros
+Gram 21K,"20,642  KMF",Comoros
+Gram 18K,"17,693  KMF",Comoros
+Gram 16K,"15,727  KMF",Comoros
+Gram 14K,"13,761  KMF",Comoros
+Gram 12K,"11,795  KMF",Comoros
+Gram 10K,"9,829  KMF",Comoros
+Gram 9K,"8,846  KMF",Comoros
+Gram 8K,"7,864  KMF",Comoros
+Gram 6K,"5,898  KMF",Comoros
+Gram 24K,844.17  ERN,Eritrea
+Gram 23K,808.99  ERN,Eritrea
+Gram 22K,773.82  ERN,Eritrea
+Gram 21K,738.65  ERN,Eritrea
+Gram 18K,633.13  ERN,Eritrea
+Gram 16K,562.78  ERN,Eritrea
+Gram 14K,492.43  ERN,Eritrea
+Gram 12K,422.08  ERN,Eritrea
+Gram 10K,351.74  ERN,Eritrea
+Gram 9K,316.56  ERN,Eritrea
+Gram 8K,281.39  ERN,Eritrea
+Gram 6K,211.04  ERN,Eritrea
+Gram 24K,764.92  SCR,Seychelles
+Gram 23K,733.04  SCR,Seychelles
+Gram 22K,701.17  SCR,Seychelles
+Gram 21K,669.30  SCR,Seychelles
+Gram 18K,573.69  SCR,Seychelles
+Gram 16K,509.94  SCR,Seychelles
+Gram 14K,446.20  SCR,Seychelles
+Gram 12K,382.46  SCR,Seychelles
+Gram 10K,318.71  SCR,Seychelles
+Gram 9K,286.84  SCR,Seychelles
+Gram 8K,254.97  SCR,Seychelles
+Gram 6K,191.23  SCR,Seychelles
+Gram 24K,126.81  TOP,Tonga
+Gram 23K,121.52  TOP,Tonga
+Gram 22K,116.24  TOP,Tonga
+Gram 21K,110.96  TOP,Tonga
+Gram 18K,95.11  TOP,Tonga
+Gram 16K,84.54  TOP,Tonga
+Gram 14K,73.97  TOP,Tonga
+Gram 12K,63.40  TOP,Tonga
+Gram 10K,52.84  TOP,Tonga
+Gram 9K,47.55  TOP,Tonga
+Gram 8K,42.27  TOP,Tonga
+Gram 6K,31.70  TOP,Tonga
+Gram 24K,56.269  BSD,Bahamas
+Gram 23K,53.924  BSD,Bahamas
+Gram 22K,51.580  BSD,Bahamas
+Gram 21K,49.235  BSD,Bahamas
+Gram 18K,42.201  BSD,Bahamas
+Gram 16K,37.512  BSD,Bahamas
+Gram 14K,32.823  BSD,Bahamas
+Gram 12K,28.134  BSD,Bahamas
+Gram 10K,23.445  BSD,Bahamas
+Gram 9K,21.101  BSD,Bahamas
+Gram 8K,18.756  BSD,Bahamas
+Gram 6K,14.067  BSD,Bahamas
+Gram 24K,76.097  BND,Brunei
+Gram 23K,72.926  BND,Brunei
+Gram 22K,69.756  BND,Brunei
+Gram 21K,66.585  BND,Brunei
+Gram 18K,57.073  BND,Brunei
+Gram 16K,50.731  BND,Brunei
+Gram 14K,44.390  BND,Brunei
+Gram 12K,38.049  BND,Brunei
+Gram 10K,31.707  BND,Brunei
+Gram 9K,28.536  BND,Brunei
+Gram 8K,25.366  BND,Brunei
+Gram 6K,19.024  BND,Brunei
+Gram 24K,"5,313.2  CVE",Cape Verde
+Gram 23K,"5,091.8  CVE",Cape Verde
+Gram 22K,"4,870.4  CVE",Cape Verde
+Gram 21K,"4,649.0  CVE",Cape Verde
+Gram 18K,"3,984.9  CVE",Cape Verde
+Gram 16K,"3,542.1  CVE",Cape Verde
+Gram 14K,"3,099.3  CVE",Cape Verde
+Gram 12K,"2,656.6  CVE",Cape Verde
+Gram 10K,"2,213.8  CVE",Cape Verde
+Gram 9K,"1,992.4  CVE",Cape Verde
+Gram 8K,"1,771.1  CVE",Cape Verde
+Gram 6K,"1,328.3  CVE",Cape Verde
+Gram 24K,46.882  KYD,Cayman Islands
+Gram 23K,44.929  KYD,Cayman Islands
+Gram 22K,42.975  KYD,Cayman Islands
+Gram 21K,41.022  KYD,Cayman Islands
+Gram 18K,35.162  KYD,Cayman Islands
+Gram 16K,31.255  KYD,Cayman Islands
+Gram 14K,27.348  KYD,Cayman Islands
+Gram 12K,23.441  KYD,Cayman Islands
+Gram 10K,19.534  KYD,Cayman Islands
+Gram 9K,17.581  KYD,Cayman Islands
+Gram 8K,15.627  KYD,Cayman Islands
+Gram 6K,11.721  KYD,Cayman Islands
+Gram 24K,"31,492  XAF",Central African Rep.
+Gram 23K,"30,179  XAF",Central African Rep.
+Gram 22K,"28,867  XAF",Central African Rep.
+Gram 21K,"27,555  XAF",Central African Rep.
+Gram 18K,"23,619  XAF",Central African Rep.
+Gram 16K,"20,994  XAF",Central African Rep.
+Gram 14K,"18,370  XAF",Central African Rep.
+Gram 12K,"15,746  XAF",Central African Rep.
+Gram 10K,"13,121  XAF",Central African Rep.
+Gram 9K,"11,809  XAF",Central African Rep.
+Gram 8K,"10,497  XAF",Central African Rep.
+Gram 6K,"7,873  XAF",Central African Rep.
+Gram 24K,"1,220.4  CZK",Czech Republic
+Gram 23K,"1,169.6  CZK",Czech Republic
+Gram 22K,"1,118.7  CZK",Czech Republic
+Gram 21K,"1,067.9  CZK",Czech Republic
+Gram 18K,915.3  CZK,Czech Republic
+Gram 16K,813.6  CZK,Czech Republic
+Gram 14K,711.9  CZK,Czech Republic
+Gram 12K,610.2  CZK,Czech Republic
+Gram 10K,508.5  CZK,Czech Republic
+Gram 9K,457.7  CZK,Czech Republic
+Gram 8K,406.8  CZK,Czech Republic
+Gram 6K,305.1  CZK,Czech Republic
+Gram 24K,152.07  XCD,Antigua and Barbuda
+Gram 23K,145.73  XCD,Antigua and Barbuda
+Gram 22K,139.40  XCD,Antigua and Barbuda
+Gram 21K,133.06  XCD,Antigua and Barbuda
+Gram 18K,114.05  XCD,Antigua and Barbuda
+Gram 16K,101.38  XCD,Antigua and Barbuda
+Gram 14K,88.71  XCD,Antigua and Barbuda
+Gram 12K,76.03  XCD,Antigua and Barbuda
+Gram 10K,63.36  XCD,Antigua and Barbuda
+Gram 9K,57.03  XCD,Antigua and Barbuda
+Gram 8K,50.69  XCD,Antigua and Barbuda
+Gram 6K,38.02  XCD,Antigua and Barbuda
+Gram 24K,41.139  FKP,"Falkland Isl., Malvinas"
+Gram 23K,39.425  FKP,"Falkland Isl., Malvinas"
+Gram 22K,37.711  FKP,"Falkland Isl., Malvinas"
+Gram 21K,35.997  FKP,"Falkland Isl., Malvinas"
+Gram 18K,30.855  FKP,"Falkland Isl., Malvinas"
+Gram 16K,27.426  FKP,"Falkland Isl., Malvinas"
+Gram 14K,23.998  FKP,"Falkland Isl., Malvinas"
+Gram 12K,20.570  FKP,"Falkland Isl., Malvinas"
+Gram 10K,17.141  FKP,"Falkland Isl., Malvinas"
+Gram 9K,15.427  FKP,"Falkland Isl., Malvinas"
+Gram 8K,13.713  FKP,"Falkland Isl., Malvinas"
+Gram 6K,10.285  FKP,"Falkland Isl., Malvinas"
+Gram 24K,"5,728.9  XPF",French Polynesia
+Gram 23K,"5,490.2  XPF",French Polynesia
+Gram 22K,"5,251.5  XPF",French Polynesia
+Gram 21K,"5,012.8  XPF",French Polynesia
+Gram 18K,"4,296.7  XPF",French Polynesia
+Gram 16K,"3,819.3  XPF",French Polynesia
+Gram 14K,"3,341.9  XPF",French Polynesia
+Gram 12K,"2,864.5  XPF",French Polynesia
+Gram 10K,"2,387.1  XPF",French Polynesia
+Gram 9K,"2,148.4  XPF",French Polynesia
+Gram 8K,"1,909.6  XPF",French Polynesia
+Gram 6K,"1,432.2  XPF",French Polynesia
+Gram 24K,"2,900.6  GMD",The Gambia
+Gram 23K,"2,779.8  GMD",The Gambia
+Gram 22K,"2,658.9  GMD",The Gambia
+Gram 21K,"2,538.1  GMD",The Gambia
+Gram 18K,"2,175.5  GMD",The Gambia
+Gram 16K,"1,933.8  GMD",The Gambia
+Gram 14K,"1,692.0  GMD",The Gambia
+Gram 12K,"1,450.3  GMD",The Gambia
+Gram 10K,"1,208.6  GMD",The Gambia
+Gram 9K,"1,087.7  GMD",The Gambia
+Gram 8K,966.9  GMD,The Gambia
+Gram 6K,725.2  GMD,The Gambia
+Gram 24K,41.139  GIP,Gibraltar
+Gram 23K,39.425  GIP,Gibraltar
+Gram 22K,37.711  GIP,Gibraltar
+Gram 21K,35.997  GIP,Gibraltar
+Gram 18K,30.855  GIP,Gibraltar
+Gram 16K,27.426  GIP,Gibraltar
+Gram 14K,23.998  GIP,Gibraltar
+Gram 12K,20.570  GIP,Gibraltar
+Gram 10K,17.141  GIP,Gibraltar
+Gram 9K,15.427  GIP,Gibraltar
+Gram 8K,13.713  GIP,Gibraltar
+Gram 6K,10.285  GIP,Gibraltar
+Gram 24K,"549,744  GNF",Guinea (Conakry)
+Gram 23K,"526,838  GNF",Guinea (Conakry)
+Gram 22K,"503,932  GNF",Guinea (Conakry)
+Gram 21K,"481,026  GNF",Guinea (Conakry)
+Gram 18K,"412,308  GNF",Guinea (Conakry)
+Gram 16K,"366,496  GNF",Guinea (Conakry)
+Gram 14K,"320,684  GNF",Guinea (Conakry)
+Gram 12K,"274,872  GNF",Guinea (Conakry)
+Gram 10K,"229,060  GNF",Guinea (Conakry)
+Gram 9K,"206,154  GNF",Guinea (Conakry)
+Gram 8K,"183,248  GNF",Guinea (Conakry)
+Gram 6K,"137,436  GNF",Guinea (Conakry)
+Gram 24K,"4,771.4  KGS",Kyrgyz Republic
+Gram 23K,"4,572.6  KGS",Kyrgyz Republic
+Gram 22K,"4,373.8  KGS",Kyrgyz Republic
+Gram 21K,"4,174.9  KGS",Kyrgyz Republic
+Gram 18K,"3,578.5  KGS",Kyrgyz Republic
+Gram 16K,"3,180.9  KGS",Kyrgyz Republic
+Gram 14K,"2,783.3  KGS",Kyrgyz Republic
+Gram 12K,"2,385.7  KGS",Kyrgyz Republic
+Gram 10K,"1,988.1  KGS",Kyrgyz Republic
+Gram 9K,"1,789.3  KGS",Kyrgyz Republic
+Gram 8K,"1,590.5  KGS",Kyrgyz Republic
+Gram 6K,"1,192.8  KGS",Kyrgyz Republic
+Gram 24K,"₩50,642  KPW",North Korea
+Gram 23K,"₩48,532  KPW",North Korea
+Gram 22K,"₩46,422  KPW",North Korea
+Gram 21K,"₩44,312  KPW",North Korea
+Gram 18K,"₩37,981  KPW",North Korea
+Gram 16K,"₩33,761  KPW",North Korea
+Gram 14K,"₩29,541  KPW",North Korea
+Gram 12K,"₩25,321  KPW",North Korea
+Gram 10K,"₩21,101  KPW",North Korea
+Gram 9K,"₩18,991  KPW",North Korea
+Gram 8K,"₩16,881  KPW",North Korea
+Gram 6K,"₩12,660  KPW",North Korea
+Gram 24K,198.91  PGK,Papua New Guinea
+Gram 23K,190.62  PGK,Papua New Guinea
+Gram 22K,182.33  PGK,Papua New Guinea
+Gram 21K,174.05  PGK,Papua New Guinea
+Gram 18K,149.18  PGK,Papua New Guinea
+Gram 16K,132.61  PGK,Papua New Guinea
+Gram 14K,116.03  PGK,Papua New Guinea
+Gram 12K,99.45  PGK,Papua New Guinea
+Gram 10K,82.88  PGK,Papua New Guinea
+Gram 9K,74.59  PGK,Papua New Guinea
+Gram 8K,66.30  PGK,Papua New Guinea
+Gram 6K,49.73  PGK,Papua New Guinea
+Gram 24K,41.139  SHP,St. Helena
+Gram 23K,39.425  SHP,St. Helena
+Gram 22K,37.711  SHP,St. Helena
+Gram 21K,35.997  SHP,St. Helena
+Gram 18K,30.855  SHP,St. Helena
+Gram 16K,27.426  SHP,St. Helena
+Gram 14K,23.998  SHP,St. Helena
+Gram 12K,20.570  SHP,St. Helena
+Gram 10K,17.141  SHP,St. Helena
+Gram 9K,15.427  SHP,St. Helena
+Gram 8K,13.713  SHP,St. Helena
+Gram 6K,10.285  SHP,St. Helena
+Gram 24K,492.24  SVC,El Salvador
+Gram 23K,471.73  SVC,El Salvador
+Gram 22K,451.22  SVC,El Salvador
+Gram 21K,430.71  SVC,El Salvador
+Gram 18K,369.18  SVC,El Salvador
+Gram 16K,328.16  SVC,El Salvador
+Gram 14K,287.14  SVC,El Salvador
+Gram 12K,246.12  SVC,El Salvador
+Gram 10K,205.10  SVC,El Salvador
+Gram 9K,184.59  SVC,El Salvador
+Gram 8K,164.08  SVC,El Salvador
+Gram 6K,123.06  SVC,El Salvador
+Gram 24K,144.06  WST,Western Samoa
+Gram 23K,138.05  WST,Western Samoa
+Gram 22K,132.05  WST,Western Samoa
+Gram 21K,126.05  WST,Western Samoa
+Gram 18K,108.04  WST,Western Samoa
+Gram 16K,96.04  WST,Western Samoa
+Gram 14K,84.03  WST,Western Samoa
+Gram 12K,72.03  WST,Western Samoa
+Gram 10K,60.02  WST,Western Samoa
+Gram 9K,54.02  WST,Western Samoa
+Gram 8K,48.02  WST,Western Samoa
+Gram 6K,36.01  WST,Western Samoa
+Gram 24K,"1,164,647  STD",St. Tome and Principe
+Gram 23K,"1,116,120  STD",St. Tome and Principe
+Gram 22K,"1,067,593  STD",St. Tome and Principe
+Gram 21K,"1,019,066  STD",St. Tome and Principe
+Gram 18K,"873,485  STD",St. Tome and Principe
+Gram 16K,"776,431  STD",St. Tome and Principe
+Gram 14K,"679,377  STD",St. Tome and Principe
+Gram 12K,"582,324  STD",St. Tome and Principe
+Gram 10K,"485,270  STD",St. Tome and Principe
+Gram 9K,"436,743  STD",St. Tome and Principe
+Gram 8K,"388,216  STD",St. Tome and Principe
+Gram 6K,"291,162  STD",St. Tome and Principe
+Gram 24K,"590,258  SLL",Sierra Leone
+Gram 23K,"565,664  SLL",Sierra Leone
+Gram 22K,"541,070  SLL",Sierra Leone
+Gram 21K,"516,475  SLL",Sierra Leone
+Gram 18K,"442,693  SLL",Sierra Leone
+Gram 16K,"393,505  SLL",Sierra Leone
+Gram 14K,"344,317  SLL",Sierra Leone
+Gram 12K,"295,129  SLL",Sierra Leone
+Gram 10K,"245,941  SLL",Sierra Leone
+Gram 9K,"221,347  SLL",Sierra Leone
+Gram 8K,"196,753  SLL",Sierra Leone
+Gram 6K,"147,564  SLL",Sierra Leone
+Gram 24K,453.23  SBD,Solomon Islands
+Gram 23K,434.35  SBD,Solomon Islands
+Gram 22K,415.46  SBD,Solomon Islands
+Gram 21K,396.58  SBD,Solomon Islands
+Gram 18K,339.93  SBD,Solomon Islands
+Gram 16K,302.16  SBD,Solomon Islands
+Gram 14K,264.39  SBD,Solomon Islands
+Gram 12K,226.62  SBD,Solomon Islands
+Gram 10K,188.85  SBD,Solomon Islands
+Gram 9K,169.96  SBD,Solomon Islands
+Gram 8K,151.08  SBD,Solomon Islands
+Gram 6K,113.31  SBD,Solomon Islands
+Gram 24K,382.39  TTD,Trinidad and Tobago
+Gram 23K,366.46  TTD,Trinidad and Tobago
+Gram 22K,350.53  TTD,Trinidad and Tobago
+Gram 21K,334.59  TTD,Trinidad and Tobago
+Gram 18K,286.79  TTD,Trinidad and Tobago
+Gram 16K,254.93  TTD,Trinidad and Tobago
+Gram 14K,223.06  TTD,Trinidad and Tobago
+Gram 12K,191.20  TTD,Trinidad and Tobago
+Gram 10K,159.33  TTD,Trinidad and Tobago
+Gram 9K,143.40  TTD,Trinidad and Tobago
+Gram 8K,127.46  TTD,Trinidad and Tobago
+Gram 6K,95.60  TTD,Trinidad and Tobago
+Gram 24K,£41.139  GBP,Isle of Man
+Gram 23K,£39.425  GBP,Isle of Man
+Gram 22K,£37.711  GBP,Isle of Man
+Gram 21K,£35.997  GBP,Isle of Man
+Gram 18K,£30.855  GBP,Isle of Man
+Gram 16K,£27.426  GBP,Isle of Man
+Gram 14K,£23.998  GBP,Isle of Man
+Gram 12K,£20.570  GBP,Isle of Man
+Gram 10K,£17.141  GBP,Isle of Man
+Gram 9K,£15.427  GBP,Isle of Man
+Gram 8K,£13.713  GBP,Isle of Man
+Gram 6K,£10.285  GBP,Isle of Man
+Gram 24K,€48.009  EUR,Ireland
+Gram 23K,€46.008  EUR,Ireland
+Gram 22K,€44.008  EUR,Ireland
+Gram 21K,€42.008  EUR,Ireland
+Gram 18K,€36.006  EUR,Ireland
+Gram 16K,€32.006  EUR,Ireland
+Gram 14K,€28.005  EUR,Ireland
+Gram 12K,€24.004  EUR,Ireland
+Gram 10K,€20.004  EUR,Ireland
+Gram 9K,€18.003  EUR,Ireland
+Gram 8K,€16.003  EUR,Ireland
+Gram 6K,€12.002  EUR,Ireland
